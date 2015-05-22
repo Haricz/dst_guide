@@ -75,37 +75,32 @@ LEGEND:
 	* torches are your friend
 
 
------ DAY 11 to DAY 12 -----
+----- DAY 11  -----
 	
 	> COLLECT 
-		(36)	logs
-		(16)	rocks
-		(1)		gold nugget
+		(48)	logs
+		(28)	rocks
+		(5)		gold nuggets
 
 	> REFINE
-		(9) 	planks
+		(13) 	planks
+		(4)		cut stones
 
 	> CRAFT
 		(1)		campfire
 		(1)		science machine
 		(3)		chests
+		(2)		electric doodads
+		(1)		alchemy engine
 
 	> EXPLORE
+		You might have collected a lot in the previous days, so if you have extra resources and finish fast,
+		explore more of the world.
 
 
-	MUST: BEEFALO HERD
-	MUST: GEAR PEEPZ
-	MUST: GLOMMER'S STATUE
-
-	BONUS: PIG KING
-	BONUS: WALRUS CAMP
-	BONUS: SPIDER DEN
-	BONUS: CHESTER
-
-
-	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
-	* exploration is important
-	* torches are your friend
+	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
+	* you can explore by day and only start crafting during the night
+	* crafting at night would be a good idea 'cuz it gives you sanity points to counter the night's sanity drain
 
 
 

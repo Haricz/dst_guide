@@ -11,7 +11,10 @@ LEGEND:
 		(!)		- as much as possible
 		(?)		- up to you (can be zero), or if needed	
 
+	  MUST:		- uninstall the game if you don't achieve this
+	  BONUS:	- it's okay if you don't
 	     *    	- note
+
 
 ----- DAY 1 to DAY 2 -----
 	
@@ -54,8 +57,10 @@ LEGEND:
 ----- DAY 5 to DAY 10 -----
 	
 	> COLLECT 
+		(!)		manure
 
 	> CRAFT
+		(!)		torches
 
 	> EXPLORE
 
@@ -70,12 +75,12 @@ LEGEND:
 	BONUS: CHESTER
 
 
-	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
+	* collect things that are only needed (don't waste effort and time collecting items you don't need yet)
 	* exploration is important
 	* torches are your friend
 
 
------ DAY 11 to DAY 12 -----
+----- DAY 11 -----
 	
 	> COLLECT 
 		(36)	logs
@@ -89,23 +94,14 @@ LEGEND:
 		(1)		campfire
 		(1)		science machine
 		(3)		chests
+		(1)		alchemy engine
 
 	> EXPLORE
 
-
-	MUST: BEEFALO HERD
-	MUST: GEAR PEEPZ
-	MUST: GLOMMER'S STATUE
-
-	BONUS: PIG KING
-	BONUS: WALRUS CAMP
-	BONUS: SPIDER DEN
-	BONUS: CHESTER
+	* you only have to craft 3 things today: Campfire, Science Machine, and 3 chests
 
 
-	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
-	* exploration is important
-	* torches are your friend
+
 
 
 

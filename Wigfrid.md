@@ -180,7 +180,8 @@ LEGEND:
 
 	* kill the pigs near their houses, then destroy their house and rebuild them near your base
 	* if you're near the pig king, then great, more pigs for you
-	* if you're not near the pig king, go to the pig king village and destroy their houses (after killing them)
+	* if you're not near the pig king, go to the pig king village and destroy 
+	* their houses (after killing them)
 
 
 
@@ -274,7 +275,8 @@ LEGEND:
 	> EXPLORE
 
 	* you should do this at night
-	* that means you should do something productive in the morning, like crafting more traps, gathering more supplies, etc...
+	* that means you should do something productive in the morning, like crafting more traps, 
+	* gathering more supplies, etc...
 
 
 
@@ -287,7 +289,8 @@ LEGEND:
 
 	> EXPLORE
 
-	* if you still lack something, or you haven't finished the things in previous days, this is the time to catch up
+	* if you still lack something, or you haven't finished the things in previous days, this is 
+	* the time to catch up
 	* use these 3 days to adjust 
 
 

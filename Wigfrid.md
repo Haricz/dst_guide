@@ -62,13 +62,21 @@ LEGEND:
 
 	MUST: BEEFALO HERD
 	MUST: GEAR PEEPZ
-	MUST: GLOMMER'S STATUE
+	MUST: GLOMMER'S STATUE before day 9
 
 	BONUS: PIG KING
 	BONUS: WALRUS CAMP
 	BONUS: SPIDER DEN
 	BONUS: CHESTER
 
+
+		@ DAY 9/10
+			
+			GLOMMER IS ALIVE BABY 
+
+			* it's a FULL MOON BABY
+
+		@--
 
 	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
 	* exploration is important
@@ -97,13 +105,12 @@ LEGEND:
 		You might have collected a lot in the previous days, so if you have extra resources and finish fast,
 		explore more of the world.
 
-	BONUS: GLOMMER IS ALIVE BABY 
 
 
 	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
 	* you can explore by day and only start crafting during the night
 	* crafting at night would be a good idea 'cuz it gives you sanity points to counter the night's sanity drain
-	* but it's a FULL MOON BABY
+
 
 
     

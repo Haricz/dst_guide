@@ -1,21 +1,20 @@
-											
-								------------Don't Starve-------------- 
+    										
+    						    --------Don't Starve Together--------- 
 								The Ultimate Survival Guide for myself
 											as Wigfrid
 								--------------------------------------
 
-LEGEND:
+#####LEGEND:
 
 	> ACTION  	- thing to do
 		(n)   	- number of stacks
 		(!)		- as much as possible
 		(?)		- up to you (can be zero), or if needed	
-
 	     *    	- note
 
 
 
------ DAY 1 to DAY 2 -----
+####DAY 1 to DAY 2 
 	
 	> COLLECT 
 		(40) 	sticks
@@ -34,7 +33,7 @@ LEGEND:
 
 
 
------ DAY 3 to DAY 5 -----
+####DAY 3 to DAY 5
 	
 	> COLLECT 
 		(40) 	logs
@@ -53,7 +52,7 @@ LEGEND:
 
 
 
------ DAY 5 to DAY 10 -----
+####DAY 6 to DAY 10
 	
 	> COLLECT 
   	  	(!)     manure
@@ -72,40 +71,42 @@ LEGEND:
 	BONUS: PIG KING
 	BONUS: WALRUS CAMP
 	BONUS: SPIDER DEN
-	BONUS: CHESTER
+	BONUS: CHESTER    
 
 
-		<-- DAY 9/10
-			
-			GLOMMER IS ALIVE BABY 
-
-			* it's a FULL MOON BABY
-
-		-->
-
-	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
+    * collect things that are only needed 
+    * don't waste effort on collecting items you don't need yet
 	* exploration is important
 	* torches are your friend
 
 
 
------ DAY 11  -----
+####DAY 9 or DAY 10
+    
+	> COLLECT 
+  	  	(!)     glommer
 
-		<-- PLACES TO SET CAMP
 
-			* near pig king 
-				- you have pig friends which could give you protection via mafia agreement or free food
-				- free food is always nice
-				- free
-				- food
 
-			* near ponds
-				- unli supply of frog legs... mmmm, frog legs.
+####DAY 11  
 
-			* beefalo herd
-				- just don't stay too near, they have space issues during mating season
-		
-		--> 
+######PLACES TO SET CAMP
+`````
+	* near pig king 
+		- you have pig friends which could give you protection 
+          via mafia agreement or free food
+		- free food is always nice
+		- free
+		- food
+
+	* near ponds
+		- unli supply of frog legs... mmmm, frog legs.
+
+	* beefalo herd
+		- just don't stay too near, they have space issues during 
+          mating season
+`````		
+	 
 	
 	> COLLECT 
 		(48)	logs
@@ -124,21 +125,21 @@ LEGEND:
 		(1)		alchemy engine
 
 	> EXPLORE
-		You might have collected a lot in the previous days, so if you have extra resources and finish fast,
-		explore more of the world.
+		You might have collected a lot in the previous days, so if you have extra  
+        resources and finish fast, explore more of the world.
 
 	* chest 1 - contains basic resources (rocks, logs, grass, twigs, etc...)
 	* chest 2 - contains harvested goods from animals (silk, pig skin, feathers, etc...)
 	* chest 3 - misc
-	* dont put refined stuff in any of the chests, refine only the stuff you need, no use keeping extras
-	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
+	* dont put refined stuff in any of the chests, refine only the stuff you need, no use   keeping extras
+	* you only need (48) logs for crafting everything, but gather more for the campfire's   fuel needz
 	* you can explore by day and only start crafting during the night
 	* crafting at night would be a good idea 'cuz it gives you sanity points 
 	* to counter the night's sanity drain
 
 
 
------ DAY 12  -----
+####DAY 12
 	
 	> COLLECT 
 		(2)		gear
@@ -163,7 +164,7 @@ LEGEND:
 
 
 
------ DAY 13  -----
+####DAY 13
 	
 	> COLLECT 
 		(6)		sticks
@@ -178,14 +179,14 @@ LEGEND:
 	> EXPLORE
 		Find the pig houses
 
-	* kill the pigs near their houses, then destroy their house and rebuild them near your base
+	* kill the pigs near their houses, then destroy their house and rebuild them near your  base
 	* if you're near the pig king, then great, more pigs for you
 	* if you're not near the pig king, go to the pig king village and destroy 
 	* their houses (after killing them)
 
 
 
------ DAY 14  -----
+####DAY 14
 	
 	> COLLECT 
 		(12)	sticks
@@ -211,7 +212,7 @@ LEGEND:
 	* jerky time!
 
 
------ DAY 15  -----
+####DAY 15
 	
 	> COLLECT 
 		(12)	sticks
@@ -239,7 +240,7 @@ LEGEND:
 
 
 
------ DAY 16  -----
+####DAY 16
 	
 	> COLLECT 
 		(4)		morsel
@@ -262,7 +263,7 @@ LEGEND:
 
 
 
------ DAY 16  -----
+####DAY 17
 	
 	> COLLECT 
 		(2)		sticks
@@ -275,12 +276,13 @@ LEGEND:
 	> EXPLORE
 
 	* you should do this at night
-	* that means you should do something productive in the morning, like crafting more traps, 
+	* that means you should do something productive in the morning, like crafting more 
+   traps, 
 	* gathering more supplies, etc...
 
 
 
------ DAY 17 to DAY 19 -----
+####DAY 18 to DAY 19
 	
 	> COLLECT 
 		(!) 	berries/carrots (for fillers)
@@ -289,13 +291,14 @@ LEGEND:
 
 	> EXPLORE
 
-	* if you still lack something, or you haven't finished the things in previous days, this is 
+	* if you still lack something, or you haven't finished the things in previous days, 
+      this is 
 	* the time to catch up
 	* use these 3 days to adjust 
 
 
 
------ DAY 20 -----
+####DAY 20
 	
 	> COLLECT 
 		(4) 	beefalo wool
@@ -314,15 +317,15 @@ LEGEND:
 	* tomorrow's the big day
 
 
------ DAY 21 -----
+####DAY 21
 	
-	> GG
+	>GG
 
 
 
     
 
-******* NOTES *******
+####NOTES
 
 	* collect silk everyday
 	* something something is better than blah something but blah blah.

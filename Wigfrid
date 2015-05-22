@@ -18,7 +18,6 @@ LEGEND:
 	> COLLECT 
 		(40) 	sticks
 		(20)	straws 
-		(12)	petals
 		(6) 	flints
 		(!)		food
 
@@ -26,11 +25,10 @@ LEGEND:
 		(2)		picks
 		(2)		axes
 		(2)		torches
-		(1)		garland
 
 	* just make torches and continue running around the map in the night
 	* don't make a firepit yet
-	* craft the garland as soon as possible, remember the places with flower
+	* remember the places with flowers
 
 
 ----- DAY 3 to DAY 5 -----

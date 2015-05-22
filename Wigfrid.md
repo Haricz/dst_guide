@@ -97,13 +97,14 @@ LEGEND:
 		You might have collected a lot in the previous days, so if you have extra resources and finish fast,
 		explore more of the world.
 
+	BONUS: GLOMMER IS ALIVE BABY 
+
 
 	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
 	* you can explore by day and only start crafting during the night
 	* crafting at night would be a good idea 'cuz it gives you sanity points to counter the night's sanity drain
-
+	* but it's a FULL MOON BABY
 
 
     
 
-	

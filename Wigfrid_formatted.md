@@ -181,6 +181,8 @@
 	* if you're near the pig king, then great, more pigs for you
 	* if you're not near the pig king, go to the pig king village and destroy 
 	* their houses (after killing them)
+	* you can surround them with walls and set a light source nearby so you can easily find them
+	* and fight the hounds with their help
 
 
 

@@ -64,15 +64,7 @@
 	> EXPLORE
 
 
-	MUST: BEEFALO HERD
-	MUST: GEAR PEEPZ
-	MUST: GLOMMER'S STATUE before day 9
-
-	BONUS: PIG KING
-	BONUS: WALRUS CAMP
-	BONUS: SPIDER DEN
-	BONUS: CHESTER  
-	BONUS: PIG HEADS  
+	SEE NOTES FOR IMPORTANT DETAILS
 
 
     * collect things that are only needed 
@@ -86,6 +78,8 @@
     
 	> COLLECT 
   	  	(!)     glommer
+
+  	> DESTROY
   	  	(?)		pig head
 
   	* they give nightmare fuel 'cuz it's a full moon
@@ -330,6 +324,27 @@
     
 
 ####NOTES
+
+
+	MUST: BEEFALO HERD
+
+	MUST: GEAR PEEPZ	
+	
+	MUST: GLOMMER'S STATUE before day 9
+
+	BONUS: PIG KING 	- for gold farming
+	
+	BONUS: WALRUS CAMP  - walking stick is a huge +
+	
+	BONUS: SPIDER DEN	- for silk farming 
+	
+	BONUS: CHESTER  	- extra baggage for swaggage
+	
+	BONUS: PIG HEADS 	- they give nightmare fuel on full moon
+
+	BONUS: HARP STATUE 	- full of flowers; for sanity
+
+	BONUS: HOUND MOUND	- farming hounds like a b0ss
 
 	* collect silk everyday
 	* something something is better than blah something but blah blah.

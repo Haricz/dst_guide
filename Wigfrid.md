@@ -133,7 +133,8 @@ LEGEND:
 	* dont put refined stuff in any of the chests, refine only the stuff you need, no use keeping extras
 	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
 	* you can explore by day and only start crafting during the night
-	* crafting at night would be a good idea 'cuz it gives you sanity points to counter the night's sanity drain
+	* crafting at night would be a good idea 'cuz it gives you sanity points 
+	* to counter the night's sanity drain
 
 
 

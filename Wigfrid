@@ -54,8 +54,11 @@ LEGEND:
 ----- DAY 5 to DAY 10 -----
 	
 	> COLLECT 
-
+  	  	(!)     manure
+  	  	(!)		food
+  	  	
 	> CRAFT
+    	(!)     torches
 
 	> EXPLORE
 

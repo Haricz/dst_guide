@@ -85,6 +85,9 @@
     
 	> COLLECT 
   	  	(!)     glommer
+  	  	(?)		pig head
+
+  	* they give nightmare fuel 'cuz it's a full moon
 
 
 

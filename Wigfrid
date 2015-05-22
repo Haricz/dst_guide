@@ -20,8 +20,7 @@ LEGEND:
 		(20)	straws 
 		(12)	petals
 		(6) 	flints
-		(!)		berries
-		(!)		carrots
+		(!)		food
 
 	> CRAFT
 		(2)		picks
@@ -56,7 +55,7 @@ LEGEND:
 	> COLLECT 
   	  	(!)     manure
   	  	(!)		food
-  	  	
+
 	> CRAFT
     	(!)     torches
 

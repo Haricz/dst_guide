@@ -71,7 +71,8 @@
 	BONUS: PIG KING
 	BONUS: WALRUS CAMP
 	BONUS: SPIDER DEN
-	BONUS: CHESTER    
+	BONUS: CHESTER  
+	BONUS: PIG HEADS  
 
 
     * collect things that are only needed 

@@ -11,30 +11,24 @@ LEGEND:
 		(!)		- as much as possible
 		(?)		- up to you (can be zero), or if needed	
 
-	  MUST:		- uninstall the game if you don't achieve this
-	  BONUS:	- it's okay if you don't
 	     *    	- note
-
 
 ----- DAY 1 to DAY 2 -----
 	
 	> COLLECT 
 		(40) 	sticks
 		(20)	straws 
-		(12)	petals
 		(6) 	flints
-		(!)		berries
-		(!)		carrots
+		(!)		food
 
 	> CRAFT
 		(2)		picks
 		(2)		axes
 		(2)		torches
-		(1)		garland
 
 	* just make torches and continue running around the map in the night
 	* don't make a firepit yet
-	* craft the garland as soon as possible, remember the places with flower
+	* remember the places with flowers
 
 
 ----- DAY 3 to DAY 5 -----
@@ -57,10 +51,11 @@ LEGEND:
 ----- DAY 5 to DAY 10 -----
 	
 	> COLLECT 
-		(!)		manure
+  	  	(!)     manure
+  	  	(!)		food
 
 	> CRAFT
-		(!)		torches
+    	(!)     torches
 
 	> EXPLORE
 
@@ -75,33 +70,37 @@ LEGEND:
 	BONUS: CHESTER
 
 
-	* collect things that are only needed (don't waste effort and time collecting items you don't need yet)
+	* collect things that are only needed (don't waste effort on collecting items you don't need yet)
 	* exploration is important
 	* torches are your friend
 
 
------ DAY 11 -----
+----- DAY 11  -----
 	
 	> COLLECT 
-		(36)	logs
-		(16)	rocks
-		(1)		gold nugget
+		(48)	logs
+		(28)	rocks
+		(5)		gold nuggets
 
 	> REFINE
-		(9) 	planks
+		(13) 	planks
+		(4)		cut stones
 
 	> CRAFT
 		(1)		campfire
 		(1)		science machine
 		(3)		chests
+		(2)		electric doodads
 		(1)		alchemy engine
 
 	> EXPLORE
+		You might have collected a lot in the previous days, so if you have extra resources and finish fast,
+		explore more of the world.
 
-	* you only have to craft 3 things today: Campfire, Science Machine, and 3 chests
 
-
-
+	* you only need (48) logs for crafting everything, but gather more for the campfire's fuel needz
+	* you can explore by day and only start crafting during the night
+	* crafting at night would be a good idea 'cuz it gives you sanity points to counter the night's sanity drain
 
 
 
